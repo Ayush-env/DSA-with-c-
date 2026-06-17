@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.out
+*.o
+
+# Build files
+*.a
+*.so
+*.dll
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
